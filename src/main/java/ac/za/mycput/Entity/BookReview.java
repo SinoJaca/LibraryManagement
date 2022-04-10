@@ -1,5 +1,6 @@
 package ac.za.mycput.Entity;
 
+
 public class BookReview {
     private int id;
     private String bookId;
